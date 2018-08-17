@@ -4,4 +4,4 @@ This project was made for the Udacity Front-End Web Developer Nanodegree. It goa
 
 Running the project
 
-In order to run the project you need to start a local server with the port set to 8000 using python (link: http://localhost:8000 ). You can run the link in any web browser. 
+In order to run the project you need to start a local server with the port set to 8000 using python (link: http://localhost:8000 ). You can run the link in any web browser. The Maps API used was the one from MapBox due to the fact that is free to use. 
